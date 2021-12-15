@@ -14,7 +14,7 @@ header {
 }
 
 .square {
-    width: 6.25%;
+    /* width: 20%; */
     height: 50px;
     border: 1px solid #fdac41;
     flex-grow: 1;
