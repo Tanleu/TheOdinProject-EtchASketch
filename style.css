@@ -1,0 +1,23 @@
+body {
+    background-color: #28293d;
+}
+
+header {
+    background-image: linear-gradient(to top,#3568d5,#3e7bfa,#6798ff);
+    color: white;
+    margin-bottom: 20px;
+}
+
+#wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square {
+    width: 6.25%;
+    height: 50px;
+    border: 1px solid #fdac41;
+    flex-grow: 1;
+    flex-shrink: 1;
+    box-sizing: border-box;
+}
